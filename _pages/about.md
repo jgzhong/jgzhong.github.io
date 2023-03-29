@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Jiageng Zhong
+Introduction
 ======
 Hello, I am Jiageng Zhong. I am a graduate student at Wuhan University, majoring in photogrammetry and remote sensing.
 
