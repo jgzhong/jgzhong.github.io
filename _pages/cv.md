@@ -29,7 +29,7 @@ Publications
 Research Projects
 ======
 <!---->
-* National Key Research and Development Program  高精度 POS 支持的免像控无人机遥感技术 (as a leading member)
+* National Key Research and Development Program  新型城镇化建设与管理空间信息综合服务及应用示范  高精度POS支持的免像控无人机遥感技术
 
 Awards
 ======
