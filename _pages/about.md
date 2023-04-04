@@ -11,7 +11,7 @@ redirect_from:
 Introduction
 ======
 Hello, I am Jiageng Zhong. I am a graduate student at Wuhan University, majoring in photogrammetry and remote sensing.
-
+My research interest lies in the field of 3D Computer Vision, particularly including 3D reconstruction, SLAM, and scene understanding as well as their applications in many different field.
 
 
 For more info
