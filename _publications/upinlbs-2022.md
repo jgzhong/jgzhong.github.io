@@ -3,7 +3,7 @@ title: "REAL-TIME MARINE ANIMAL DETECTION USING YOLO-BASED DEEP LEARNING NETWORK
 collection: publications
 permalink: /publication/upinlbs-2022
 date: 2022-04-22
-venue: 'UPINLBS 2022'
+venue: 'UPINLBS'
 ---
 
 [Download paper here](https://isprs-archives.copernicus.org/articles/XLVI-3-W1-2022/301/2022/)
