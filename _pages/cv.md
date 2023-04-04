@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Wuhan, China, Wuhan University, 2017-2021
-* M.S. in Wuhan, China, Wuhan University, 2021-2024 (expected)
+* 2017-2021, B.S. in Wuhan, China, Wuhan University, School of Remote Sensing and Information Engineering
+* 2021-2024 (expected), M.S. in Wuhan, China, Wuhan University, State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing
 
   
 Skills
@@ -28,9 +28,9 @@ Publications
 
 Research Projects
 ======
-<!--
-* National Key Research and Development Program (as a leading member)
--->
+<!---->
+* National Key Research and Development Program  高精度 POS 支持的免像控无人机遥感技术 (as a leading member)
+
 Awards
 ======
 
